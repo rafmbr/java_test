@@ -1,0 +1,9 @@
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/entities/StockDescription.java
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/entities/Notification.java
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/TestJavaApplication.java
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/feign/StockQuoteManagerFeign.java
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/Services/RegisterAtStockManager.java
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/entities/Quote.java
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/controller/CacheController.java
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/controller/StockController.java
+/home/rafael/Documents/java_test/src/main/java/com/rafmbr/StockQuoteManager/repository/QuoteRepository.java

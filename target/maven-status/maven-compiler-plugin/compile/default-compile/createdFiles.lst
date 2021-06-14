@@ -1,0 +1,9 @@
+com/rafmbr/StockQuoteManager/entities/Notification.class
+com/rafmbr/StockQuoteManager/feign/StockQuoteManagerFeign.class
+com/rafmbr/StockQuoteManager/Services/RegisterAtStockManager.class
+com/rafmbr/StockQuoteManager/controller/CacheController.class
+com/rafmbr/StockQuoteManager/entities/StockDescription.class
+com/rafmbr/StockQuoteManager/controller/StockController.class
+com/rafmbr/StockQuoteManager/TestJavaApplication.class
+com/rafmbr/StockQuoteManager/repository/QuoteRepository.class
+com/rafmbr/StockQuoteManager/entities/Quote.class
